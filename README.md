@@ -1,4 +1,4 @@
-# minicollage-PRoject
+# Collegemini_Project
 
 Associated with Chandigarh University 
 
