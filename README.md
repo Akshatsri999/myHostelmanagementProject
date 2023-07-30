@@ -1,4 +1,4 @@
-# Collegemini_Project
+# College_Project
 
 Associated with Chandigarh University 
 
